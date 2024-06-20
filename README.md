@@ -1,4 +1,4 @@
-# ZshSync
+# ZshSync 📀
 ZshSync is a simple and efficient tool for synchronizing your Zsh configurations across different machines.
 This script automates the process of pushing and pulling your .zshrc and custom Oh My Zsh settings to and from a Git repository.
 Once installed simply use `pushConf` and `pullConf` on your respective devices to update. 😇
